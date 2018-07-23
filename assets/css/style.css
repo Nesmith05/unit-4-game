@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+#game-panel {
+    /* background-color: #fff; */
+    width: 500px;
+    height: 180px;
+    padding: 30px;
+    padding-bottom: 80px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+
+#stats {
+    background-color: black;
+    border-color: palevioletred;
+    border: 5px;
+    border-style: dotted;
+    width: 200px;
+    height: 180px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    color: palevioletred;
+    text-align: center;
+}
+#howto {
+    text-align: center;
+    align-content: center;
+    margin-bottom: 30px;
+    color: rgb(160, 89, 112);
+}
+
+img {
+    width: 200px;   
+    height: 200px;
+    
+}
+
+h1 {
+    text-align: center;
+    color: rgb(160, 89, 112);
+    font-family: monoton;
+    margin-top: 20px;
+}
